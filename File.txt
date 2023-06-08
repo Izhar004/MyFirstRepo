@@ -1,1 +1,3 @@
-Sabahun Noor
+Name = Sabahun Noor
+Labtask = 8
+Subject = SCAD
